@@ -6,7 +6,7 @@
 
 <br>
 
-[강의 자료](https://edu.goorm.io/learn/lecture/12534/%EC%A0%80%EC%9E%90-%EC%A7%81%EA%B0%95-do-it-node-js-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+[강의 자료](https://edu.goorm.io/learn/lecture/12534/%EC%A0%80%EC%9E%90-%EC%A7%81%EA%B0%95-do-it-node-js-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) 또는 [강의 자료](https://www.inflearn.com/course/2017-node-js-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 <br><br>
 ## Index
 - ch01: 노드에 대해 알아보고 개발도구 설치하기
